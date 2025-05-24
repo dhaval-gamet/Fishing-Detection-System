@@ -75,3 +75,5 @@
 ---
 
 **कोई भी सवाल या सुझाव हो तो Issue या Discussion में लिखें।**
+## License
+This project is licensed under the MIT License - © 2025 Dhaval Gameti
